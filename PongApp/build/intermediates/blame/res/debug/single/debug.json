@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_win_transparent.png.flat",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\src\\main\\res\\drawable-hdpi\\win_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\src\\main\\res\\drawable-hdpi\\start_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\src\\main\\res\\drawable-hdpi\\exit_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\Pong\\PongApp\\src\\main\\res\\drawable-hdpi\\background.png"
+    }
+]
